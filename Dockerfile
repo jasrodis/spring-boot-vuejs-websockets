@@ -9,7 +9,7 @@ COPY . /app
 # Working dir is now the project dir
 WORKDIR /app
 
-# Create executable jar file
+# Create jar file
 RUN mvn clean package
 
 # Run the jar file 
