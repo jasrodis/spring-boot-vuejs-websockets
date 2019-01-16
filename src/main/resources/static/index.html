@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Spring-boot-vuejs-websockets</title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+    />
+  </head>
+  <body>
+    <div id="app" class="container">
+      <h2>Spring-boot-vuejs-websockets</h2>
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+            <th>Value A</th>
+            <th>Value B</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr
+            v-for="m in valuesList"
+            >
+            <td>{{ m.valueA }}</td>
+            <td>{{ m.valueB }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Bootstrap 4 -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+
+    <!-- Websockets -->
+    <script src="https://cdn.jsdelivr.net/sockjs/1/sockjs.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/stomp.js/2.3.3/stomp.min.js"></script>
+    <script src="https://unpkg.com/vue"></script>
+
+    <!-- Websocket handling -->
+    <script src="ws.js"></script>
+  </body>
+</html>
