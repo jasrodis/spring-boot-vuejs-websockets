@@ -16,9 +16,9 @@
   · Docker
 </p>
 
-<p align="center">
-  <a href="https://travis-ci.org/jasrodis/dataviewer">
-    <img alt="travis" src="https://img.shields.io/travis/jasrodis/dataviewer.svg?style=flat-square">
+<p align="center"> 
+  <a href="https://travis-ci.org/jasrodis/spring-boot-vuejs-websockets">
+    <img alt="travis" src="https://img.shields.io/travis/jasrodis/spring-boot-vuejs-websockets.svg?style=flat-square">
   <a href="https://opensource.org/licenses/MIT">
     <img alt="licence" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square">
   </a>
