@@ -14,7 +14,6 @@
   · SockJS
   · Bootstrap4
   · Docker
-
 </p>
 
 <p align="center">
@@ -27,6 +26,7 @@
 
 This is a sample application using spring-boot, vue.js and websockets.
 It displays random real-time data on a simple table every second.
+
 
 
 
@@ -57,5 +57,5 @@ docker run -p 8080:8080 -it spring-boot-vuejs-websockets
 ```
 9. Visit `http://localhost:8080` 🙏
 
-### d Made with ❤️@2019
+### Made with ❤️@2019
 
