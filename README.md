@@ -26,9 +26,7 @@
 
 This is a simple application using spring-boot, vue.js and websockets.
 It displays random real-time data on a table every second.
-
-
-
+ 
 
 ## Run it! 🏃
 ```sh
@@ -50,12 +48,12 @@ Visit `http://localhost:8080` 🙏
 cd spring-boot-vuejs-websockets
 docker build -t spring-boot-vuejs-websockets .
 ```
-4. Run 
+2. Run 
 
 ```sh
 docker run -p 8080:8080 -it spring-boot-vuejs-websockets
 ```
-9. Visit `http://localhost:8080` 🙏
+3. Visit `http://localhost:8080` 🙏
 
 ### Made with ❤️@2019
 
