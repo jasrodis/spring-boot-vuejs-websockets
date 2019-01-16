@@ -17,7 +17,7 @@
 </p>
 
 <p align="center"> 
-  <a href="https://travis-ci.org/jasrodis/spring-boot-vuejs-websockets">
+  <a href="https://travis-ci.com/jasrodis/spring-boot-vuejs-websockets">
     <img alt="travis" src="https://img.shields.io/travis/jasrodis/spring-boot-vuejs-websockets.svg?style=flat-square">
   <a href="https://opensource.org/licenses/MIT">
     <img alt="licence" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square">
