@@ -24,8 +24,8 @@
   </a>
 </p>
 
-This is a sample application using spring-boot, vue.js and websockets.
-It displays random real-time data on a simple table every second.
+This is a simple application using spring-boot, vue.js and websockets.
+It displays random real-time data on a table every second.
 
 
 
