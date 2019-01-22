@@ -53,7 +53,7 @@ docker build -t spring-boot-vuejs-websockets .
 ```sh
 docker run -p 8080:8080 -it spring-boot-vuejs-websockets
 ```
-3. Visit `http://localhost:8080`🙏
+3. Visit `http://localhost:8080` 🙏
 
 ### Made with ❤️@2019
 
