@@ -2,7 +2,7 @@
 	<img align="center" src="spring-boot-vuejs-ws.png"/>
 </p>
 
-
+ 
 <h2 align="center">spring-boot-vuejs-websockets</h2>
 
 <p align="center">
